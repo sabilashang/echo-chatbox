@@ -13,8 +13,8 @@ A lightweight peer-to-peer chat system for real-time communication between devic
 
 ## 🛠️ Setup Instructions
 1. Clone this repository:
-        git clone https://github.com/sabilashang/echo-chatbox/
-        cd echo-chatbox
+        - *git clone https://github.com/sabilashang/echo-chatbox/*
+        - *cd echo-chatbox*
 2. Install the required dependencies.
         npm install
 4. Run the app and enjoy seamless, server-free communication!
