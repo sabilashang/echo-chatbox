@@ -16,10 +16,10 @@ A lightweight peer-to-peer chat system for real-time communication between devic
     - *git clone https://github.com/sabilashang/echo-chatbox/*
     - *cd echo-chatbox*
 2. Install the required dependencies.
-        npm install
+    - *npm install*
 4. Run the app and enjoy seamless, server-free communication!
-        npm run devStart
-        Open index.html in a live server (VSCode Live Server or similar) and start using the chatbox.
+    - *npm run devStart*
+    - *Open index.html in a live server (VSCode Live Server or similar) and start using the chatbox*
 
 ## 🧑‍💻 Tech Stack
 - **Socket.io**: Handles real-time, bi-directional communication.
