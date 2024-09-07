@@ -25,4 +25,9 @@ A lightweight peer-to-peer chat system for real-time communication between devic
 - **Socket.io**: Handles real-time, bi-directional communication.
 - **HTML/CSS/JavaScript**: Basic user interface.
 
-Feel free to contribute or customize the system to fit your needs! 🎉
+## ⚠️ License:
+This project is under No License: This code is for personal use only. Copying, modifying, or using this code for academic, commercial, or other purposes is not permitted. Feel free to reach out if required permission to reuse
+
+## 📫 Contact:
+Feel free to reach out if you have any questions!
+**Instagram**: [@sabilashan_g](https://www.instagram.com/sabilashan_g/)
